@@ -10,7 +10,7 @@ class KeranjangPage extends StatelessWidget {
         children: [
           KeranjangAppBar(),
           Container(
-            height: 700,
+            height: 710,
             padding: EdgeInsets.only(top: 15),
             decoration: BoxDecoration(
                 color: Color(0xFFE1E1E1),

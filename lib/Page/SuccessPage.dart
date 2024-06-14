@@ -10,7 +10,7 @@ class SuccessPage extends StatelessWidget {
             width: double.infinity,
             height: MediaQuery.of(context).size.height,
             padding: const EdgeInsets.symmetric(horizontal: 88, vertical: 225),
-            decoration: BoxDecoration(color: Color(0xFF0E46A3)),
+            decoration: BoxDecoration(color: Color(0xFF62557D)),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.center,

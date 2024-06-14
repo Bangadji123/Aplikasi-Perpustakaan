@@ -99,7 +99,9 @@ class ProfilePage extends StatelessWidget {
                       ),
                       SizedBox(height: 30),
                       GestureDetector(
-                        onTap: () {},
+                        onTap: () {
+                          Navigator.pushNamed(context, "loginScreen");
+                        },
                         child:
                             ProfileWidget(icon: Icons.logout, title: "Log Out"),
                       ),

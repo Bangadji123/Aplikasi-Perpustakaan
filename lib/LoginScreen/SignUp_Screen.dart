@@ -130,7 +130,7 @@ class SignUpScreen extends StatelessWidget {
                   height: 55,
                   width: double.infinity,
                   decoration: BoxDecoration(
-                    color: Color(0xFF0E46A3),
+                    color: Color(0xFF62557D),
                     borderRadius: BorderRadius.circular(10),
                   ),
                   child: Center(
@@ -173,7 +173,7 @@ class SignUpScreen extends StatelessWidget {
                       style: TextStyle(
                         color: Color(0xFF0E46A3),
                         fontSize: 19,
-                        fontWeight: FontWeight.bold,
+                        // fontWeight: FontWeight.bold,
                       ),
                     ),
                   ),

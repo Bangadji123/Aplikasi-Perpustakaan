@@ -36,7 +36,7 @@ class _HomepageState extends State<Homepage> {
         index: _selectedIndex,
         backgroundColor: Colors.transparent,
         height: 70,
-        color: Color(0xFF0E46A3),
+        color: Color(0xFF62557D),
         items: [
           Icon(
             Icons.home,

@@ -22,7 +22,7 @@ class PinjamBottomNavBar extends StatelessWidget {
               ),
               style: ButtonStyle(
                 backgroundColor: MaterialStateProperty.all(
-                  Color(0xFF0E46A3),
+                  Color(0xFF62557D),
                 ),
                 fixedSize:
                     MaterialStateProperty.all(Size(150, 55)), // Lebar, Tinggi

@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (context) => LoginScreen(), // Rute untuk LoginScreen
         'homePage': (context) => Homepage(), // Rute untuk Homepage
+        'loginScreen': (context) => LoginScreen(), // Rute untuk Homepage
         'favoritePage': (context) => FavoritePage(), // Rute untuk FavoritPage
         'itemPage': (context) => ItemPage(), // Rute untuk CartPage
         'editprofilePage': (context) => EditProfilePage(), // Rute untuk EditProfilePage
